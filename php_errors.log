@@ -1,0 +1,14 @@
+[13-Mar-2025 19:13:40 Europe/Berlin] Veritabanı bağlantı hatası: SQLSTATE[HY000] [1045] Access denied for user 'kullanici_adi'@'localhost' (using password: YES)
+[13-Mar-2025 19:13:42 Europe/Berlin] Veritabanı bağlantı hatası: SQLSTATE[HY000] [1045] Access denied for user 'kullanici_adi'@'localhost' (using password: YES)
+[13-Mar-2025 19:16:14 Europe/Berlin] Veritabanı bağlantı hatası: SQLSTATE[HY000] [1045] Access denied for user 'kullanici_adi'@'localhost' (using password: YES)
+[13-Mar-2025 19:16:17 Europe/Berlin] Veritabanı bağlantı hatası: SQLSTATE[HY000] [1045] Access denied for user 'kullanici_adi'@'localhost' (using password: YES)
+[13-Mar-2025 19:16:18 Europe/Berlin] Veritabanı bağlantı hatası: SQLSTATE[HY000] [1045] Access denied for user 'kullanici_adi'@'localhost' (using password: YES)
+[13-Mar-2025 19:16:23 Europe/Berlin] Veritabanı bağlantı hatası: SQLSTATE[HY000] [1045] Access denied for user 'kullanici_adi'@'localhost' (using password: YES)
+[13-Mar-2025 19:19:09 Europe/Berlin] Veritabanı bağlantı hatası: SQLSTATE[HY000] [1049] Unknown database 'kayip_ilanlari'
+[13-Mar-2025 19:19:10 Europe/Berlin] Veritabanı bağlantı hatası: SQLSTATE[HY000] [1049] Unknown database 'kayip_ilanlari'
+[13-Mar-2025 19:19:11 Europe/Berlin] Veritabanı bağlantı hatası: SQLSTATE[HY000] [1049] Unknown database 'kayip_ilanlari'
+[13-Mar-2025 19:19:11 Europe/Berlin] Veritabanı bağlantı hatası: SQLSTATE[HY000] [1049] Unknown database 'kayip_ilanlari'
+[13-Mar-2025 19:19:13 Europe/Berlin] Veritabanı bağlantı hatası: SQLSTATE[HY000] [1049] Unknown database 'kayip_ilanlari'
+[13-Mar-2025 19:19:37 Europe/Berlin] Veritabanı bağlantı hatası: SQLSTATE[HY000] [1049] Unknown database 'kayip_ilanlari'
+[13-Mar-2025 19:19:39 Europe/Berlin] Veritabanı bağlantı hatası: SQLSTATE[HY000] [1049] Unknown database 'kayip_ilanlari'
+[13-Mar-2025 19:19:39 Europe/Berlin] Veritabanı bağlantı hatası: SQLSTATE[HY000] [1049] Unknown database 'kayip_ilanlari'
